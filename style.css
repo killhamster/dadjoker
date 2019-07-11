@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  text-align: center;
+  font-family: system-ui;
+  font-size: 125%;
+}
+#joke {
+  padding: 1rem;
+}
+blockquote {
+  font-size: 150%;
+}
+cite {
+  color: #888;
+}
+}
+button {
+  margin-top: 20px;
+  line-height: 60px;
+  font-weight: bold;
+  padding: 0 40px;
+  background: blue;
+  border: none;
+}
+button:hover {
+  background: lightblue;
+}
